@@ -1,0 +1,33 @@
+# Android / Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+
+# Kotlin build output
+**/*.kotlin_module
+
+# Build artifacts
+app/build/
+
+# Logs
+*.log
+logcat_output.txt
+build_log.txt
+raw_out.txt
+error.txt
